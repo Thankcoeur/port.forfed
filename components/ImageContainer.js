@@ -1,7 +1,7 @@
 export default function ImageContainer() {
 
     return (
-         <img className="photoDeProfil shadow-2xl rounded-2xl  mx-auto max-h-[300px]   " src="images/profil.jpg"
+         <img className=" mt-10 shadow-2xl  mx-auto h-[300px]    " src="images/profil.jpg"
    ></img>
     )
 }
