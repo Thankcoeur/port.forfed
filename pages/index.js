@@ -44,7 +44,7 @@ const list = [
 
   })
 
-  return (<div className="bg-gray-200 ">
+  return (<div className="bg-gray-200 text-gray ">
 <div className="md:max-w-[900px] md:mx-auto p-5 min-h-screen">
 
 
